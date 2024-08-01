@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+
+@import "./utilities/variables";
+@import "./utilities/extend";
+@import "./utilities/mixin";
+@import "./utilities/globales";
+
+@import "./components/header";
+
+@import "./pages/main-index";
+
+@import "./components/footer";
+
+@import "./utilities/media-queries";

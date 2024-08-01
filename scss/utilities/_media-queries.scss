@@ -1,0 +1,198 @@
+
+/* Media Queries main-index */
+
+
+
+
+@media (max-width: 768px){
+    main{
+
+        margin-top: 120;
+div h1{
+    padding-top:130px;
+    font-size: 25px}
+
+.descripcion {
+
+    width: 100%;
+    padding-right: 10%;
+    text-align: justify;
+     margin-left: auto;
+    font-size: 20px;
+    margin-bottom: 30px;
+   
+
+    border: transparent;
+   
+      
+ }
+
+
+.slide{
+        display: grid;
+        place-items: center;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 30px;
+        margin-bottom: 0;
+        height: 300px;
+        border: transparent;}
+
+    
+  
+   .slide img{
+   
+     height:30vh ;}
+
+    
+          
+     .lugar{
+        width: 100%;
+        padding-right: 20%;
+        text-align: justify;
+     margin-left: auto;
+    font-size: 20px;
+    margin-bottom: 30px;
+   
+
+    border: transparent;
+     }
+     
+    
+
+    .iframe {
+        
+       
+
+
+        display: block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-right: auto;
+        width: 60%;
+        height: 70px;
+       
+    
+       
+        }
+
+}}
+
+/* Media-queries Nosotros */
+
+@media (max-width: 768px){
+    main{
+        margin-top: 10px;;
+    
+.contactanos{ 
+  
+padding-top: 30px;}
+
+.cuadros{
+    margin-top: 20px;
+    margin-left: 0%;
+    margin-right: 20%;
+
+
+}
+}}
+
+
+
+
+        
+
+
+/* Media-queries Personal */
+
+@media (max-width: 768px){
+
+main{
+  
+    z-index: -1;
+
+
+
+    .servicios{
+        padding-top: 120px;
+       
+    }
+
+.carousel-estilos{
+    margin-bottom: 20px;
+    
+}
+
+
+
+.carousel-tipos-cuerpo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}}}
+
+/* Media queries Hogar */
+
+
+@media (max-width: 768px){
+    main{
+        margin-top: 0;
+
+        .productos{
+           padding-top: 120px;
+        }
+
+        #hogar img{
+            margin-left: 50px;
+        }
+    }
+
+ 
+      
+
+
+/* Media queries Galeria */
+
+
+@media (max-width: 768px){
+    main{
+        margin-top: 0;
+    
+.presentacion{ 
+  
+padding-top: 120px;}
+
+
+}}
+
+    
+/* Media queries footer */
+
+@media(max-width: 768px){
+#footer{
+    padding-top: 30px;
+    height:540px;
+   
+
+
+    .logo-footer{
+        margin-top: 10px;
+    }
+
+
+.redessociales{
+
+
+ .twitter{
+       width: 100px;
+       height: 10px;
+   }
+   
+   .instagram{
+       width: 10px;
+       height: 10px;
+   }
+   
+   .whatsapp{
+   width: 10px;
+   height: 10px;}}}}}

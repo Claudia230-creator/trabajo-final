@@ -1,0 +1,99 @@
+/* footer */
+
+#footer{
+    background-color: $color; 
+    background-size: cover;
+   background-position: center;
+   width: 100%;
+
+ 
+   padding-top: 10px;
+   border: transparent;
+   
+
+
+
+ .logo-footer{
+    width: 90px;
+    height: 90px;
+    margin-left: 45%;
+    margin-top: 5%;
+    margin-bottom: 9px;
+    display: grid;
+    place-items: center;  
+   
+ }
+
+ .estamos{
+    display: grid;
+    place-items: center;
+    color: blanchedalmond;
+    font-family: cursive;
+    font-size: 25px;
+    width: 100%;
+    text-decoration: none;
+   
+}
+
+ 
+    .row > div{
+        padding: 10px;
+       
+     
+
+    .suscribite{
+    color: blanchedalmond;
+    font-size: 20px;
+    
+
+.flecha-enviar {
+    width: 30px;
+    height: 30px;
+}}
+    
+.redessociales{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+ 
+    .twitter{
+        width: 70px;
+        height: 70px;
+    }
+
+    .instagram{
+        width: 50px;
+        height: 50px;
+    }
+
+   .whatsapp{
+    width: 50px;
+    height: 50px;
+     
+ }}
+
+
+ h4{
+    color: blanchedalmond;
+    font-size: 20px;
+     font-family: "Roboto Slab", serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+     font-style: normal;
+     text-decoration: none;
+     
+    
+
+
+ .contacto{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }}}
+ 
+
+
+.copyright{
+    font-size: 15px;
+    padding-bottom: 30px;
+}}
